@@ -1,0 +1,8 @@
+streamlit>=1.45
+openai>=1.66
+python-dotenv>=1.0
+reportlab>=4.0
+apify-client>=3.0
+
+# Solo para correr las pruebas (pytest):
+pytest>=8.0

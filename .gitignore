@@ -1,0 +1,14 @@
+# Claves y datos personales: nunca se suben a un repositorio
+.env
+cv_maestro.txt
+config.json
+postulaciones.json
+historial_ediciones.json
+ofertas_vistas.json
+investigaciones_empresas.json
+buscar_ofertas.log
+
+# Archivos generados
+.venv/
+__pycache__/
+.pytest_cache/
